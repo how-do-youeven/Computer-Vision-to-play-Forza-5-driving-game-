@@ -1,3 +1,1 @@
-<a href="https://youtu.be" target="_blank">
-  <img src="https://youtube.com" alt="Watch the video" width="600" />
-</a>
+[![Watch the video]([IMAGE_URL_GOES_HERE](https://www.youtube.com/watch?v=kzVDIkxmO48))]([VIDEO_WATCH_URL_GOES_HERE](https://www.youtube.com/watch?v=kzVDIkxmO48))
